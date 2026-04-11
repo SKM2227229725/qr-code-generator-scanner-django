@@ -18,6 +18,15 @@ This project is built with Django and organized using two apps:
 
 ---
 
+
+## Tech Stack
+Python
+Django
+HTML
+CSS
+JavaScript
+QR code related Python libraries
+
 ## Project Structure
 
 ```bash
@@ -28,3 +37,5 @@ djangoqr/
 ├── djangoqr/      # Project settings and configuration
 ├── manage.py
 └── README.md
+
+
