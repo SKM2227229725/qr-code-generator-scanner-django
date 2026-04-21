@@ -13,7 +13,15 @@ A Django-based web application that allows users to generate QR codes from text 
 - Beginner-friendly project  
 
 ---
+## 📸 Screenshots
 
+> Add screenshots of your application here (QR generation page, scanner page, result output).
+
+Example:
+- QR Code Generation UI
+- QR Scanner Result Outpu
+
+----
 ## 🛠️ Tech Stack
 
 - Python  
