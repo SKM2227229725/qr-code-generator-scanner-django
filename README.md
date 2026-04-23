@@ -26,7 +26,7 @@ Example:
 
 - Python  
 - Django  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript   and  talwind css
 - Libraries:
   - qrcode
   - pyzbar
